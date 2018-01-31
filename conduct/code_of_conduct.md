@@ -124,10 +124,8 @@ report, we will take appropriate action.
 For information on enforcement, please view the [*Enforcement
 Manual*](enforcement.md).
 
-Original text courtesy of the [*Speak
-Up!*](http://web.archive.org/web/20141109123859/http://speakup.io/coc.html)
-and [*Django*](https://www.djangoproject.com/conduct) Projects,
-modified by Project Jupyter.  We are grateful to those projects for contributing these materials under open licensing terms for us to easily reuse.
+Original text courtesy of the [Project Jupyter](https://github.com/jupyter/governance/) Projects,
+modified by the [Atlanta Jupyter User Group](http://atl-jugheads.github.io).  We are grateful to those projects for contributing these materials under open licensing terms for us to easily reuse.
 
 All content on this page is licensed under a [*Creative Commons
 Attribution*](http://creativecommons.org/licenses/by/3.0/) license.

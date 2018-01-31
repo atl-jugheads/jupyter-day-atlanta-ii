@@ -10,9 +10,8 @@ All responses to reports of conduct violations will be managed by a Code of
 Conduct Committee ("the committee"), currently comprised of
 [*note:* still gathering volunteers, this will be filled in as they become available and prior to final upload into the rendered site]:
 
-* Person One foo@email (Chair of the Committee)
-* ...
-* Person Five bar@email
+* Tony Fast tony.fast@gmail.com
+* Luke Starnes lukestarnes@gmail.com
 
 The Jupyter Steering Council will approve the members of this five person
 committee. The members will be drawn from our entire community, and we intend
@@ -94,7 +93,7 @@ When a report is sent to the committee they will immediately reply to the
 reporter to confirm receipt. This reply must be sent within 24 hours, and the
 group should strive to respond much quicker than that.
 
-See the [Reporting Guidelines](*reporting_online.md*) for details of
+See the [Reporting Guidelines](reporting_online.md) for details of
 what reports should contain. If a report doesn't contain enough information, the
 committee will obtain all relevant data before acting. The committee is
 empowered to act on the Steering Council’s behalf in contacting any individuals
