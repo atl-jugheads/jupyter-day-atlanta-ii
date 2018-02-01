@@ -57,6 +57,14 @@ the broad topics that scientists and engineers explore with Jupyter notebooks.
 
 
 
+# Important Dates
+
+* Call for Participation Closes: __February 16, 2018__
+* Speakers notified: __February 19, 2018__
+* Early Bird Registration Opens: __February 14, 2018__
+
+
+
 
 
 # Schedule
@@ -89,4 +97,12 @@ All participants, including speakers, must follow our [__Atlanta Jupyter Day Cod
 this: __Atlanta Jupyter Day__ should be a safe and productive environment for everyone.
 
 [coc]: conduct/code_of_conduct.md
+
+
+
+<style>
+a:link {
+    color: #F37626;
+}
+</style>
 
