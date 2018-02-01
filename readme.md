@@ -103,6 +103,13 @@ this: __Atlanta Jupyter Day__ should be a safe and productive environment for ev
 
 
 
+# Sponsors
+
+![](http://www.southeastlinuxfest.org/wp-content/uploads/2014/06/ORM_logo_box1_cmyk.jpg)
+![](https://upload.wikimedia.org/wikipedia/en/1/1e/GTRI_Logo_2011.png)
+
+
+
 <style>
 a:link {
     color: #F37626;
