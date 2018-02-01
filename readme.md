@@ -10,7 +10,7 @@ March 31, 2018 @ [Georgia Tech Research Institute](None) in Atlanta
 
 
 
-# [<button type="button">Submit a talk for Jupyter Day Atlanta</button>](https://docs.google.com/forms/d/e/1FAIpQLSeUJfyYnmsDtswuFanajOpAbAl_E4Ib6LsgM1fMk6Y42ZCf2w/viewform)
+[<button type="button" style="font-size: 3em; padding: .5em;">Submit a talk for Jupyter Day Atlanta</button>](https://docs.google.com/forms/d/e/1FAIpQLSeUJfyYnmsDtswuFanajOpAbAl_E4Ib6LsgM1fMk6Y42ZCf2w/viewform)
 
 
 > We are accepting talks for 2 tracks until __February 16, 2018__.
@@ -101,7 +101,7 @@ this: __Atlanta Jupyter Day__ should be a safe and productive environment for ev
 
 
 <style>
-a:link {
+button, a:link {
     color: #F37626;
 }
 </style>
