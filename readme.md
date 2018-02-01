@@ -4,7 +4,7 @@
 
 # Jupyter Day Atlanta II 
 
-March 31, 2018 @ [Georgia Tech Research Institute](None) in Atlanta
+March 31, 2018 @ [Georgia Tech Research Institute](https://gtri.gatech.edu/) in Atlanta
 
 ---
 
@@ -105,8 +105,8 @@ this: __Atlanta Jupyter Day__ should be a safe and productive environment for ev
 
 # Sponsors
 
-![](http://www.southeastlinuxfest.org/wp-content/uploads/2014/06/ORM_logo_box1_cmyk.jpg)
-![](https://upload.wikimedia.org/wikipedia/en/1/1e/GTRI_Logo_2011.png)
+[![](http://www.southeastlinuxfest.org/wp-content/uploads/2014/06/ORM_logo_box1_cmyk.jpg)](https://www.oreilly.com/)
+[![](https://upload.wikimedia.org/wikipedia/en/1/1e/GTRI_Logo_2011.png)](https://gtri.gatech.edu/)
 
 
 
