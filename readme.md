@@ -45,7 +45,7 @@ stay tuned for more!_
 
 ### Up and Running: The Jupyter Stack for n00bs
 
-Are you new to Jupyter?  Join this session to learn some __Pro__ tips that will improve your Jupyter experience.
+Are you new to Jupyter?  Join this session to learn some pro tips that will improve your Jupyter experience.
 
 ### Interacting and Collaborating in Jupyter
 
