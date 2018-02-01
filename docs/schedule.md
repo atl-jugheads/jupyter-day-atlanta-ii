@@ -12,7 +12,7 @@
           > A 45 minute crash course on getting the most out of Jupyter in Lab.
 
     * 1:40pm - 4pm Interacting and Collaborating with Jupyter
-    * 1:40pm - 4pm Jupyter for Science
+    * 1:40pm - 4pm Jupyter for Business and Science
 
 * 4-4:15pm  — ☕️
 * 4:15pm - 5pm - Featured Talk

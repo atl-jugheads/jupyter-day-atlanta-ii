@@ -22,17 +22,19 @@ March 31, 2018 @ [Georgia Tech Research Institute](https://gtri.gatech.edu/) in 
 
 ## About
 
-Jupyter Day Atlanta  is a single day conference for Jupyter users in the Southeast.  The [Atlanta
-Jupyter User Group](https://www.meetup.com/Atlanta-Jupyter-User-Group/) is excited to host this event to showcase  applications
-of the open source software created by Project Jupyter.  These interactive technologies
+Jupyter Day Atlanta is a single-day conference for Jupyter users in the Southeast.  The [Atlanta
+Jupyter User Group](https://www.meetup.com/Atlanta-Jupyter-User-Group/) is excited to host this event to showcase applications
+of the open source software created by Project Jupyter and community. These interactive technologies
 are reshaping how people interact with code and data in both industry and academia.  
 
-Jupyter Day Atlanta is chance for fellow Jovians to learn about the state-of-the-art in open
-source scientific computing from Project Jupyter developers and users. This event is inspired by
-[past and future events](docs/events.md) hosted by Jupyter community.  
+Jupyter Day Atlanta is chance for Jupyter users of all experience levels to share and learn about 
+the state-of-the-art in open source scientific computing. This event is inspired by
+[past and future events](docs/events.md) hosted by the Jupyter community, and hopes to connect
+people across the Southeast including Atlanta, Athens, Raleigh, Columbia, Charlotte, and more.
 
-Make plans to join us in Atlanta on March 31.  Early Bird Registration for Jupyter Day Atlanta
-will open __February 14, 2018__.  Until then please consider [submitting a talk](https://docs.google.com/forms/d/e/1FAIpQLSeUJfyYnmsDtswuFanajOpAbAl_E4Ib6LsgM1fMk6Y42ZCf2w/viewform)!
+Make plans to join us at the [GTRI Conference Center](https://gtri.gatech.edu/) in the heart of Atlanta
+on March 31. Early Bird Registration for Jupyter Day Atlanta
+opens __February 14, 2018__.  Until then please consider [submitting a talk](https://docs.google.com/forms/d/e/1FAIpQLSeUJfyYnmsDtswuFanajOpAbAl_E4Ib6LsgM1fMk6Y42ZCf2w/viewform)!
 
 
 
@@ -84,7 +86,7 @@ the broad topics that scientists and engineers explore with Jupyter notebooks.
           > A 45 minute crash course on getting the most out of Jupyter in Lab.
 
     * 1:40pm - 4pm Interacting and Collaborating with Jupyter
-    * 1:40pm - 4pm Jupyter for Science
+    * 1:40pm - 4pm Jupyter for Business and Science
 
 * 4-4:15pm  — ☕️
 * 4:15pm - 5pm - Featured Talk
@@ -115,12 +117,16 @@ a:link {
     color: #F37626;
 }
 button {
-    color: ;
+    color: white;
     background-color: #F37626;
     font-size: 2em;
-    padding: .25em;
-    border-radius: .25em;
+    padding: .5em;
+    border-radius: .1em;
     width: 100%;
+    border: 0;
+}
+a:hover {
+    font-weight: normal !important;
 }
 </style>
 
