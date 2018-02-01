@@ -10,7 +10,7 @@ March 31, 2018 @ [Georgia Tech Research Institute](None) in Atlanta
 
 
 
-[<button type="button"><h1>Submit a talk for Jupyter Day Atlanta</h1></button>](https://docs.google.com/forms/d/e/1FAIpQLSeUJfyYnmsDtswuFanajOpAbAl_E4Ib6LsgM1fMk6Y42ZCf2w/viewform)
+# [<button type="button">Submit a talk for Jupyter Day Atlanta</button>](https://docs.google.com/forms/d/e/1FAIpQLSeUJfyYnmsDtswuFanajOpAbAl_E4Ib6LsgM1fMk6Y42ZCf2w/viewform)
 
 
 > We are accepting talks for 2 tracks until __February 16, 2018__.
