@@ -1,7 +1,7 @@
 # Schedule
 
 * 9:00am - 9:15am — ☕️, 🍩, & registration
-* 9:15am - 10am — Panel on Readability, Reusability, and Reproducability
+* 9:15am - 10am — Panel on Readability, Reusability, and Reproducibility
 * 10am - 12pm — Invited Talks
 * 12pm - 1pm — Lunch provided by O'Reilly Media
 * 1pm - 1:40pm - Post Lunch Talk

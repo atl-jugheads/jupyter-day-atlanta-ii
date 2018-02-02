@@ -52,7 +52,7 @@ Are you new to Jupyter?  Join this session to learn some pro tips that will impr
 ### Interacting and Collaborating in Jupyter
 
 In this session, the audience will learn about the core Jupyter
-architecture (eg. messaging, kernels) and subprojects (eg. Notebook, JupyterHub, JupyterLab, ipywidgets, nbconvert).  
+architecture (e.g. messaging, kernels) and subprojects (e.g. Notebook, JupyterHub, JupyterLab, ipywidgets, nbconvert).  
 
 
 ### Jupyter for Science
@@ -75,7 +75,7 @@ the broad topics that scientists and engineers explore with Jupyter notebooks.
 # Schedule
 
 * 9:00am - 9:15am — ☕️, 🍩, & registration
-* 9:15am - 10am — Panel on Readability, Reusability, and Reproducability
+* 9:15am - 10am — Panel on Readability, Reusability, and Reproducibility
 * 10am - 12pm — Invited Talks
 * 12pm - 1pm — Lunch provided by O'Reilly Media
 * 1pm - 1:40pm - Post Lunch Talk
@@ -114,16 +114,19 @@ this: __Atlanta Jupyter Day__ should be a safe and productive environment for ev
 
 # Meetup Partners
 
-The Atlanta Jupyter Group is an extension of [PyData Atlanta](https://www.meetup.com/PyData-Atlanta/) and the greater techonology community 
+The Atlanta Jupyter Group is an extension of [PyData Atlanta](https://www.meetup.com/PyData-Atlanta/) and the greater technology community 
 in Atlanta.  We are excited to partner with these meetups.
 
 [![](https://secure.meetupstatic.com/photos/event/2/7/2/8/global_452170024.jpeg)](https://www.meetup.com/PyData-Atlanta/)
+
+## [PyData <img style="display:inline" src="https://pbs.twimg.com/profile_images/780503095499452418/7YYwrvXr_400x400.jpg"></img> Triangle](https://www.meetup.com/PyData-Triangle/ "PyData Triangle")
 
 
 
 <style>
 a:link {
     color: #F37626;
+    font-weight: normal !important;
 }
 button {
     color: white;
