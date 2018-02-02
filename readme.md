@@ -119,7 +119,7 @@ in Atlanta.  We are excited to partner with these meetups.
 
 [![](https://secure.meetupstatic.com/photos/event/2/7/2/8/global_452170024.jpeg)](https://www.meetup.com/PyData-Atlanta/)
 
-## [PyData <img style="display:inline" src="https://pbs.twimg.com/profile_images/780503095499452418/7YYwrvXr_400x400.jpg"></img> Triangle](https://www.meetup.com/PyData-Triangle/ "PyData Triangle")
+## [PyData <img style="display:inline" src="https://pbs.twimg.com/profile_images/780503095499452418/7YYwrvXr_400x400.jpg"/> Triangle](https://www.meetup.com/PyData-Triangle/ "PyData Triangle")
 
 
 
