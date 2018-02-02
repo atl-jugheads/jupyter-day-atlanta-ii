@@ -40,8 +40,8 @@ opens __February 14, 2018__.  Until then please consider [submitting a talk](htt
 
 ## Invited Speakers
 
-Jupyter Day Atlanta will host talks from some exciting innovators working in Jupyter notebooks.  _Please
-stay tuned for more!_
+Jupyter Day Atlanta will host talks from exciting innovators working in Jupyter 
+notebooks.  _Please stay tuned for more!_
 
 ## Breakout Sessions
 
@@ -109,6 +109,15 @@ this: __Atlanta Jupyter Day__ should be a safe and productive environment for ev
 
 [![](http://www.southeastlinuxfest.org/wp-content/uploads/2014/06/ORM_logo_box1_cmyk.jpg)](https://www.oreilly.com/)
 [![](https://upload.wikimedia.org/wikipedia/en/1/1e/GTRI_Logo_2011.png)](https://gtri.gatech.edu/)
+
+
+
+# Meetup Partners
+
+The Atlanta Jupyter Group is an extension of [PyData Atlanta](https://www.meetup.com/PyData-Atlanta/) and the greater techonology community 
+in Atlanta.  We are excited to partner with these meetups.
+
+[![](https://secure.meetupstatic.com/photos/event/2/7/2/8/global_452170024.jpeg)](https://www.meetup.com/PyData-Atlanta/)
 
 
 
