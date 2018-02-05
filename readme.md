@@ -2,6 +2,24 @@
 ![](https://user-images.githubusercontent.com/4236275/35634953-fb4a3eb6-067a-11e8-81f7-8f06fcf0b052.png)
 
 
+<style>
+    @import url("https://cdn.jsdelivr.net/npm/firacode@1.205.0/distr/fira_code.css");
+
+    pre code, 
+    div.output_area pre, 
+    .CodeMirror * {
+      font-family: 'Fira Code' !important; 
+      font-variant-ligatures: initial !important;
+    }
+
+    .cm-string {
+        font-variant-ligatures: none;
+    }
+</style>
+
+
+
+
 # Jupyter Day Atlanta II 
 
 March 31, 2018 @ [Georgia Tech Research Institute](https://gtri.gatech.edu/) in Atlanta
@@ -72,23 +90,25 @@ the broad topics that scientists and engineers explore with Jupyter notebooks.
 
 
 
-# Schedule
+## Morning session
 
-* 9:00am - 9:15am — ☕️, 🍩, & registration
+* 9:00am - 9:15am — Registration with ☕️ & 🍩 from Project Jupyter
 * 9:15am - 10am — Panel on Readability, Reusability, and Reproducibility
 * 10am - 12pm — Invited Talks
 * 12pm - 1pm — Lunch provided by O'Reilly Media
+
+## Afternoon session
+
 * 1pm - 1:40pm - Post Lunch Talk
 * 1:40pm - 4pm
 
     * Up and Running: The Jupyter Stack for n00bs
-        * 1:40pm - 2:25pm
-          > A 45 minute crash course on getting the most out of Jupyter in Lab.
+        * 1:40pm - 2:25pm A 45 minute crash course on getting the most out of Jupyter in Lab.
 
     * 1:40pm - 4pm Interacting and Collaborating with Jupyter
     * 1:40pm - 4pm Jupyter for Business and Science
 
-* 4-4:15pm  — ☕️
+* 4-4:15pm  — More ☕️ provided by Project Jupyter
 * 4:15pm - 5pm - Featured Talk
 * 5pm - 5:30pm — Town Hall and Closing Remarks
 
