@@ -45,13 +45,12 @@ Jupyter User Group](https://www.meetup.com/Atlanta-Jupyter-User-Group/) is excit
 of the open source software created by Project Jupyter and community. These interactive technologies
 are reshaping how people interact with code and data in both industry and academia.  
 
-[<button type="button">Get Early Bird Tickets</button>](https://www.eventbrite.com/e/jupyter-day-atlanta-tickets-42852095772)
-
-
 Jupyter Day Atlanta is chance for Jupyter users of all experience levels to share and learn about 
 the state-of-the-art in open source scientific computing. This event is inspired by
 [past and future events](docs/events.md) hosted by the Jupyter community, and hopes to connect
 people across the Southeast including Atlanta, Athens, Raleigh, Columbia, Charlotte, and more.
+
+[<button type="button">Get Early Bird Tickets</button>](https://jupyter-day-atlanta.eventbrite.com)
 
 Make plans to join us at the [GTRI Conference Center](https://gtri.gatech.edu/) in the heart of Atlanta
 on March 31. Early Bird Registration for Jupyter Day Atlanta
