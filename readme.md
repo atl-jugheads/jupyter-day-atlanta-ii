@@ -45,6 +45,9 @@ Jupyter User Group](https://www.meetup.com/Atlanta-Jupyter-User-Group/) is excit
 of the open source software created by Project Jupyter and community. These interactive technologies
 are reshaping how people interact with code and data in both industry and academia.  
 
+[<button type="button">Get Early Bird Tickets</button>](https://www.eventbrite.com/e/jupyter-day-atlanta-tickets-42852095772)
+
+
 Jupyter Day Atlanta is chance for Jupyter users of all experience levels to share and learn about 
 the state-of-the-art in open source scientific computing. This event is inspired by
 [past and future events](docs/events.md) hosted by the Jupyter community, and hopes to connect
@@ -84,7 +87,6 @@ the broad topics that scientists and engineers explore with Jupyter notebooks.
 
 * Call for Participation Closes: __February 16, 2018__
 * Speakers notified: __February 19, 2018__
-* Early Bird Registration Opens: __February 14, 2018__
 
 
 
