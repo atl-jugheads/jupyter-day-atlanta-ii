@@ -33,7 +33,7 @@ March 31, 2018 @ [Georgia Tech Research Institute](https://gtri.gatech.edu/) in 
 
 > We are accepting talks for 2 tracks until __February 16, 2018__.
 
-[<button type="button">Click here to submit your talk</button>](https://docs.google.com/forms/d/e/1FAIpQLSeUJfyYnmsDtswuFanajOpAbAl_E4Ib6LsgM1fMk6Y42ZCf2w/viewform)
+[<button type="button">Submit Your Talk</button>](https://docs.google.com/forms/d/e/1FAIpQLSeUJfyYnmsDtswuFanajOpAbAl_E4Ib6LsgM1fMk6Y42ZCf2w/viewform)
 
 
 
