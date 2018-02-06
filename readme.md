@@ -45,7 +45,7 @@ Jupyter User Group](https://www.meetup.com/Atlanta-Jupyter-User-Group/) is excit
 of the open source software created by Project Jupyter and community. These interactive technologies
 are reshaping how people interact with code and data in both industry and academia.  
 
-Jupyter Day Atlanta is chance for Jupyter users of all experience levels to share and learn about 
+Jupyter Day Atlanta is a chance for Jupyter users of all experience levels to share and learn about 
 the state-of-the-art in open source scientific computing. This event is inspired by
 [past and future events](docs/events.md) hosted by the Jupyter community, and hopes to connect
 people across the Southeast including Atlanta, Athens, Raleigh, Columbia, Charlotte, and more.
@@ -84,7 +84,7 @@ the broad topics that scientists and engineers explore with Jupyter notebooks.
 
 # Important Dates
 
-* Call for Participation Closes: __February 16, 2018__
+* [Call for Participation](https://docs.google.com/forms/d/e/1FAIpQLSeUJfyYnmsDtswuFanajOpAbAl_E4Ib6LsgM1fMk6Y42ZCf2w/viewform) Closes: __February 16, 2018__
 * Speakers notified: __February 19, 2018__
 
 
@@ -104,7 +104,7 @@ the broad topics that scientists and engineers explore with Jupyter notebooks.
 * 1:40pm - 4pm
 
     * Up and Running: The Jupyter Stack for n00bs
-        * 1:40pm - 2:25pm A 45 minute crash course on getting the most out of Jupyter in Lab.
+        * 1:40pm - 2:25pm A 45 minute crash course on getting the most out of JupyterLab.
 
     * 1:40pm - 4pm Interacting and Collaborating with Jupyter
     * 1:40pm - 4pm Jupyter for Business and Science
