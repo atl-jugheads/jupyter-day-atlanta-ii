@@ -180,6 +180,14 @@ button {
     color: white;
     background-color: #F37626;
 }
+button.btn-sm {
+    font-size: 1em;
+    padding: .25em;
+    border-radius: .1em;
+    width: 50%;
+    border: 0;
+}
+
 button.btn-lg {
     font-size: 2em;
     padding: .5em;
