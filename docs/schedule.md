@@ -11,7 +11,7 @@
 * 1:40pm - 4pm
 
     * Up and Running: The Jupyter Stack for n00bs
-        * 1:40pm - 2:25pm A 45 minute crash course on getting the most out of Jupyter in Lab.
+        * 1:40pm - 2:25pm A 45 minute crash course on getting the most out of JupyterLab.
 
     * 1:40pm - 4pm Interacting and Collaborating with Jupyter
     * 1:40pm - 4pm Jupyter for Business and Science
