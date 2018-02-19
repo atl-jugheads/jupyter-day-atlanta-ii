@@ -2,24 +2,6 @@
 ![](https://user-images.githubusercontent.com/4236275/35634953-fb4a3eb6-067a-11e8-81f7-8f06fcf0b052.png)
 
 
-<style>
-    @import url("https://cdn.jsdelivr.net/npm/firacode@1.205.0/distr/fira_code.css");
-
-    pre code, 
-    div.output_area pre, 
-    .CodeMirror * {
-      font-family: 'Fira Code' !important; 
-      font-variant-ligatures: initial !important;
-    }
-
-    .cm-string {
-        font-variant-ligatures: none;
-    }
-</style>
-
-
-
-
 # Jupyter Day Atlanta II 
 
 March 31, 2018 @ [Georgia Tech Research Institute](https://gtri.gatech.edu/) in Atlanta
@@ -31,7 +13,7 @@ March 31, 2018 @ [Georgia Tech Research Institute](https://gtri.gatech.edu/) in 
 ## Interested in speaking at Jupyter Day Atlanta?
 
 
-> We are accepting talks for 2 tracks until __February 16, 2018__.
+> We are accepting talks for 2 tracks until __March 16, 2018__.
 
 [<button type="button">Submit Your Talk</button>](https://docs.google.com/forms/d/e/1FAIpQLSeUJfyYnmsDtswuFanajOpAbAl_E4Ib6LsgM1fMk6Y42ZCf2w/viewform)
 
@@ -54,7 +36,7 @@ people across the Southeast including Atlanta, Athens, Raleigh, Columbia, Charlo
 
 Make plans to join us at the [GTRI Conference Center](https://gtri.gatech.edu/) in the heart of Atlanta
 on March 31. Early Bird Registration for Jupyter Day Atlanta
-opens __February 14, 2018__.  Until then please consider [submitting a talk](https://docs.google.com/forms/d/e/1FAIpQLSeUJfyYnmsDtswuFanajOpAbAl_E4Ib6LsgM1fMk6Y42ZCf2w/viewform)!
+is open.  Until then please consider [submitting a talk](https://docs.google.com/forms/d/e/1FAIpQLSeUJfyYnmsDtswuFanajOpAbAl_E4Ib6LsgM1fMk6Y42ZCf2w/viewform)!
 
 
 
@@ -84,8 +66,8 @@ the broad topics that scientists and engineers explore with Jupyter notebooks.
 
 # Important Dates
 
-* [Call for Participation](https://docs.google.com/forms/d/e/1FAIpQLSeUJfyYnmsDtswuFanajOpAbAl_E4Ib6LsgM1fMk6Y42ZCf2w/viewform) Closes: __February 16, 2018__
-* Speakers notified: __February 19, 2018__
+* [Call for Participation](https://docs.google.com/forms/d/e/1FAIpQLSeUJfyYnmsDtswuFanajOpAbAl_E4Ib6LsgM1fMk6Y42ZCf2w/viewform) Closes: __March 16, 2018__
+* Speakers notified: __March 19, 2018__
 
 
 
@@ -113,6 +95,50 @@ the broad topics that scientists and engineers explore with Jupyter notebooks.
 * 4:15pm - 5pm - Featured Talk
 * 5pm - 5:30pm — Town Hall and Closing Remarks
 
+
+
+
+
+# Invited Talks
+
+
+## STEAM Workshops with Binder and JupyterHub
+
+
+> [Carol Willing](https://twitter.com/WillingCarol) - _Research Software Engineer_ @ **[Project Jupyter](https://jupyter.org)**
+
+
+Middle School and High School students can learn by doing. Jupyter Notebooks and the rich Python ecosystem with libraries on a variety of topics can engage many learners of the sciences and humanities. Interactive content, using Jupyter Widgets and visualization libraries, put the student in charge of manipulating content and extending their learning. Giving students engaging content in familiar subjects encourages them to develop and use computational skills to build upon their interests.
+
+One difficulty of teaching workshops is access to computers and the ability to install software on those systems. This talk will demonstrate how a workshop organizer or teacher can deploy JupyterHub easily for a class using the Zero to JupyterHub Guide, Kubernetes, and Cloud Services. Even if students only have access to smartphones, tablets, or shared computers, a workshop can be held using Binder which allows a notebook environment to be served at the click of a button to any modern web browser.
+
+## Human-in-the-loop with Jupyter notebooks
+
+
+> [Paco Nathan](https://twitter.com/pacoid) - _Evil Mad Scientist_ @ **[O'Reilly Media](https://www.oreilly.com/learning)**
+
+
+Imagine you have a few million documents, where sometimes the term `react` gets used to describe a JavaScript library, then sometimes it describes what people do during interviews. Even after parsing documents with the latest NLP libraries, "disambiguation" of overloaded terms is a hard problem.
+
+One way to disambiguate terms in documents uses *active learning* for a *human-in-the-loop* approach.  While both "active learning" and "human-in-the-loop" have multiple meanings, this usage is about semi-supervised machine learning. It's a great technique to have in your toolkit when you want to prepare data for use at scale, such as preparing data sets for deep learning.
+
+This talk will show an overview of active learning, how it's being used in industry.  While tooling can be expensive, we took an open source approach at O'Reilly Media based on Jupyter notebooks, nbformat, pandas, scikit-learn.  If all goes well, we'll include a live demo.
+
+## Just how hard is it to drive a car with a camera?
+
+
+> [Stephen Welch](https://twitter.com/stephencwelch) - _Senior Engineer, Machine Learning_ @ **[Wheego Technologies, Welch labs](http://wheego.net/)**
+
+
+In this talk, we'll use the Jupyter notebook to take a data-based approach to this question. Using real driving data and real algorithms in the notebook, we'll get as close as we can to the unique historical and modern approaches to this deep and compelling problem.
+
+## Reproducible Segmentation of Not-Quite-Objects in Jupyter Notebooks
+
+
+> [Shannon Quinn](https://twitter.com/SpectralFilter) - _Assistant Professor_ @ **[University of Georgia](http://cobweb.cs.uga.edu/~squinn/)**
+
+
+A fundamental concept in computer vision is the process of segmenting an object of interest out from within an image or sequence of images. This process is difficult under the best of circumstances; in our case, we are interested not in single objects but rather a collection of deformable objects. Motile cilia are microscopic, hair-like structures that protrude from cells and beat in synchrony to move particulates and irritants away and bring nutrients in. Cilia line the exterior of cells in nearly every part of the body; as such, diseases that affect cilia and their ability to beat properly can have myriad and severe consequences on the patient's health. To that end, studying the motion of cilia is important to better understand the pathologies of these diseases. In this talk, we'll discuss some of the basics of object segmentation, and how many of the basic assumptions are violated in circumstances such as identifying cilia in a video. We'll look at live demonstrations of alternative segmentation approaches that can be used on diffuse motion patterns such as those created by moving cilia, using Jupyter notebooks and ipywidgets to create a beginner-friendly walkthrough of the basics of ciliary motion analysis and segmentation methods.
 
 
 
