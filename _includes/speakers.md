@@ -1,3 +1,4 @@
+<hr>
 ### Speakers
 
 [Carol Willing](#steam-workshops-with-binder-and-jupyterhub)<br>
