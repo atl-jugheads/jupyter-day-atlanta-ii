@@ -172,15 +172,22 @@ in Atlanta.  We are excited to partner with these meetups.
 
 
 <style>
-.btn, a:link {
+a:link {
     color: #F37626;
     font-weight: normal !important;
 }
-button.btn {
+button {
     color: white;
     background-color: #F37626;
-    width: 100%;
 }
+button.btn-lg {
+    font-size: 2em;
+    padding: .5em;
+    border-radius: .1em;
+    width: 100%;
+    border: 0;
+}
+
 a:hover {
     font-weight: normal !important;
 }
