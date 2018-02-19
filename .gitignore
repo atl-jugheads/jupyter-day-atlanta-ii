@@ -1,1 +1,6 @@
 *Responses*.csv
+_site
+.ipynb_checkpoints
+.sass-cache
+.gemfile
+.jekyll-metadata

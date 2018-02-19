@@ -172,7 +172,7 @@ in Atlanta.  We are excited to partner with these meetups.
 
 
 <style>
-a:link {
+.btn, a:link {
     color: #F37626;
     font-weight: normal !important;
 }
