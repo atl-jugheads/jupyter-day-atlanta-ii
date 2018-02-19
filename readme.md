@@ -15,7 +15,7 @@ March 31, 2018 @ [Georgia Tech Research Institute](https://gtri.gatech.edu/) in 
 
 > We are accepting talks for 2 tracks until __March 16, 2018__.
 
-[<button type="button">Submit Your Talk</button>](https://docs.google.com/forms/d/e/1FAIpQLSeUJfyYnmsDtswuFanajOpAbAl_E4Ib6LsgM1fMk6Y42ZCf2w/viewform)
+[<button class="btn btn-lg" type="button">Submit Your Talk</button>](https://docs.google.com/forms/d/e/1FAIpQLSeUJfyYnmsDtswuFanajOpAbAl_E4Ib6LsgM1fMk6Y42ZCf2w/viewform)
 
 
 
@@ -32,7 +32,7 @@ the state-of-the-art in open source scientific computing. This event is inspired
 [past and future events](docs/events.md) hosted by the Jupyter community, and hopes to connect
 people across the Southeast including Atlanta, Athens, Raleigh, Columbia, Charlotte, and more.
 
-[<button type="button">Get Early Bird Tickets</button>](https://jupyter-day-atlanta.eventbrite.com)
+[<button class="btn btn-lg" type="button">Get Early Bird Tickets</button>](https://jupyter-day-atlanta.eventbrite.com)
 
 Make plans to join us at the [GTRI Conference Center](https://gtri.gatech.edu/) in the heart of Atlanta
 on March 31. Early Bird Registration for Jupyter Day Atlanta
@@ -176,14 +176,10 @@ in Atlanta.  We are excited to partner with these meetups.
     color: #F37626;
     font-weight: normal !important;
 }
-button {
+button.btn {
     color: white;
     background-color: #F37626;
-    font-size: 2em;
-    padding: .5em;
-    border-radius: .1em;
     width: 100%;
-    border: 0;
 }
 a:hover {
     font-weight: normal !important;
