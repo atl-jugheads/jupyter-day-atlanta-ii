@@ -18,7 +18,10 @@
         <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
         {% include eventbrite.html %}
         {% include twitter_badge.html %}
-        {% include speakers.md %}
+
+
+        {% capture items %}{% include speakers.md %}{% endcapture %}
+        {{items|markdownify}}
 
         {% if site.github.is_project_page %}
           <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
