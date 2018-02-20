@@ -26,17 +26,8 @@
         {% capture items %}{% include speakers.md %}{% endcapture %}
         {{items|markdownify}}
 
-
-      </header>
-      <section>
-
-      {{ content }}
-
-
-      <hr>
-      <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </section>
-      <footer>
+        <hr>
+        
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
@@ -56,6 +47,18 @@
             <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
           </ul>
         {% endif %}
+
+
+      </header>
+      <section>
+
+      {{ content }}
+
+
+      <hr>
+      <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </section>
+      <footer>
 
       </footer>
     </div>
