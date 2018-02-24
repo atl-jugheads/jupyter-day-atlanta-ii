@@ -103,7 +103,7 @@ This talk will show an overview of active learning, how it's being used in indus
 ## Just how hard is it to drive a car with a camera?
 
 
-> [Stephen Welch](https://twitter.com/stephencwelch) - _Senior Engineer, Machine Learning_ @ **[Wheego Technologies, Welch labs](http://wheego.net/)**
+> [Stephen Welch](https://twitter.com/stephencwelch) - _Senior Engineer, Machine Learning_ @ **[Wheego Technologies, Welch labs](http://www.welchlabs.com/)**
 
 
 In this talk, we'll use the Jupyter notebook to take a data-based approach to this question. Using real driving data and real algorithms in the notebook, we'll get as close as we can to the unique historical and modern approaches to this deep and compelling problem.
