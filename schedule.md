@@ -8,7 +8,7 @@
     * 11:20am - 12pm
 * 12pm - 1pm — Lunch
 * 1pm - 1:40pm - Post Lunch Talk
-* 1:40pm - 4:45pm
+* 1:40pm - 4:45pm Breakout Sessions
 
     * Up and Running: The Jupyter Stack for n00bs
         * 1:40pm - 2:25pm

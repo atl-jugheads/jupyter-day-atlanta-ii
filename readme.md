@@ -40,30 +40,6 @@ is open.  Until then please consider [submitting a talk](https://docs.google.com
 
 
 
-## Invited Speakers
-
-Jupyter Day Atlanta will host talks from exciting innovators working in Jupyter 
-notebooks.  _Please stay tuned for more!_
-
-## Breakout Sessions
-
-### Up and Running: The Jupyter Stack for n00bs
-
-Are you new to Jupyter?  Join this session to learn some pro tips that will improve your Jupyter experience.
-
-### Interacting and Collaborating in Jupyter
-
-In this session, the audience will learn about the core Jupyter
-architecture (e.g. messaging, kernels) and subprojects (e.g. Notebook, JupyterHub, JupyterLab, ipywidgets, nbconvert).  
-
-
-### Jupyter for Science
-
-A favorite of Jupyter Day Atlanta 2016 the Jupyter for Science track will host a session demonstrating
-the broad topics that scientists and engineers explore with Jupyter notebooks.
-
-
-
 # Important Dates
 
 * [Call for Participation](https://docs.google.com/forms/d/e/1FAIpQLSeUJfyYnmsDtswuFanajOpAbAl_E4Ib6LsgM1fMk6Y42ZCf2w/viewform) Closes: __March 16, 2018__
@@ -140,6 +116,25 @@ In this talk, we'll use the Jupyter notebook to take a data-based approach to th
 
 A fundamental concept in computer vision is the process of segmenting an object of interest out from within an image or sequence of images. This process is difficult under the best of circumstances; in our case, we are interested not in single objects but rather a collection of deformable objects. Motile cilia are microscopic, hair-like structures that protrude from cells and beat in synchrony to move particulates and irritants away and bring nutrients in. Cilia line the exterior of cells in nearly every part of the body; as such, diseases that affect cilia and their ability to beat properly can have myriad and severe consequences on the patient's health. To that end, studying the motion of cilia is important to better understand the pathologies of these diseases. In this talk, we'll discuss some of the basics of object segmentation, and how many of the basic assumptions are violated in circumstances such as identifying cilia in a video. We'll look at live demonstrations of alternative segmentation approaches that can be used on diffuse motion patterns such as those created by moving cilia, using Jupyter notebooks and ipywidgets to create a beginner-friendly walkthrough of the basics of ciliary motion analysis and segmentation methods.
 
+
+
+
+## Breakout Sessions
+
+### Up and Running: The Jupyter Stack for n00bs
+
+Are you new to Jupyter?  Join this session to learn some pro tips that will improve your Jupyter experience.
+
+### Interacting and Collaborating in Jupyter
+
+In this session, the audience will learn about the core Jupyter
+architecture (e.g. messaging, kernels) and subprojects (e.g. Notebook, JupyterHub, JupyterLab, ipywidgets, nbconvert).  
+
+
+### Jupyter for Science
+
+A favorite of Jupyter Day Atlanta 2016 the Jupyter for Science track will host a session demonstrating
+the broad topics that scientists and engineers explore with Jupyter notebooks.
 
 
 
