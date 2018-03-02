@@ -139,6 +139,14 @@ In this talk, we'll use the Jupyter notebook to take a data-based approach to th
 
 A fundamental concept in computer vision is the process of segmenting an object of interest out from within an image or sequence of images. This process is difficult under the best of circumstances; in our case, we are interested not in single objects but rather a collection of deformable objects. Motile cilia are microscopic, hair-like structures that protrude from cells and beat in synchrony to move particulates and irritants away and bring nutrients in. Cilia line the exterior of cells in nearly every part of the body; as such, diseases that affect cilia and their ability to beat properly can have myriad and severe consequences on the patient's health. To that end, studying the motion of cilia is important to better understand the pathologies of these diseases. In this talk, we'll discuss some of the basics of object segmentation, and how many of the basic assumptions are violated in circumstances such as identifying cilia in a video. We'll look at live demonstrations of alternative segmentation approaches that can be used on diffuse motion patterns such as those created by moving cilia, using Jupyter notebooks and ipywidgets to create a beginner-friendly walkthrough of the basics of ciliary motion analysis and segmentation methods.
 
+## Accelerated Deep Learning with PyTorch
+
+
+> [Wafa Louhichi](https://www.linkedin.com/in/wafa-louhichi-61520a10a/) - _Graduate Student_  @ **[Georgia Institute of Technology](https://www.gatech.edu/)**
+
+
+Numpy and Jupyter notebooks are now a de-facto standard for data science. But what if we have a bigger problem to tackle? This tutorial introduces PyTorch, a Numpy-like library for deep learning that is being developed at Facebook. Along with a CPU-based NumPy back-end, PyTorch allows you to use GPU back-end without any knowledge of CUDA or other low level frameworks and languages. With PyTorch, advancing science from your web browser is fast and easy as never before! In our short tutorial we’re going to show you how to use PyTorch for regular data analytics tasks, how it’s different from Numpy, and how to train a neural network on a toy image classification dataset like MNIST or CIFAR-10. Finally, we show you how we used PyTorch to solve a real problem right at the intersection of Business and Science, namely, training a classifier to determine smooth or rough surface finish in metal parts manufactured on a CNC machine, all within the comfort of a Jupyter Notebook.
+
 
 
 
