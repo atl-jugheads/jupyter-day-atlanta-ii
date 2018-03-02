@@ -100,18 +100,6 @@ One way to disambiguate terms in documents uses *active learning* for a *human-i
 
 This talk will show an overview of active learning, how it's being used in industry.  While tooling can be expensive, we took an open source approach at O'Reilly Media based on Jupyter notebooks, nbformat, pandas, scikit-learn.  If all goes well, we'll include a live demo.
 
-## Learn how to write functional and declarative layouts in the Jupyter Notebook.
-
-
-> [Kyle Kelley]() - _Senior Software Engineer_  @ **[Netflix]()**
-
-
-This talk will introduce developers to using the vdom library to compose interactive layouts in Jupyter frontends, whether you're in the classic notebook, nteract, Hydrogen, and even JupyterLab!
-
-* Write Declarative Pythonic layouts.
-* Render the layout in Jupyter and nteract frontends.
-* Serialize layout for rehydration in a web app.
-
 ## Give a Little Bit of Your Notebooks to Me
 
 
