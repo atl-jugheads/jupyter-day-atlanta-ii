@@ -103,7 +103,7 @@ This talk will show an overview of active learning, how it's being used in indus
 ## Give a Little Bit of Your Notebooks to Me
 
 
-> [Peter Parente]()  @ **[Valassis Digital by day, Jupyter by night]()**
+> [Peter Parente]()  @ **Valassis Digital by day, Jupyter by night**
 
 
 You've written an awesome notebook. It tells a great story, looks beautiful, and runs flawlessly. How do you share your pride and joy? Come and learn about some Jupyter tools that help make your work accessible to the masses.
@@ -127,6 +127,12 @@ In this talk, we'll use the Jupyter notebook to take a data-based approach to th
 
 A fundamental concept in computer vision is the process of segmenting an object of interest out from within an image or sequence of images. This process is difficult under the best of circumstances; in our case, we are interested not in single objects but rather a collection of deformable objects. Motile cilia are microscopic, hair-like structures that protrude from cells and beat in synchrony to move particulates and irritants away and bring nutrients in. Cilia line the exterior of cells in nearly every part of the body; as such, diseases that affect cilia and their ability to beat properly can have myriad and severe consequences on the patient's health. To that end, studying the motion of cilia is important to better understand the pathologies of these diseases. In this talk, we'll discuss some of the basics of object segmentation, and how many of the basic assumptions are violated in circumstances such as identifying cilia in a video. We'll look at live demonstrations of alternative segmentation approaches that can be used on diffuse motion patterns such as those created by moving cilia, using Jupyter notebooks and ipywidgets to create a beginner-friendly walkthrough of the basics of ciliary motion analysis and segmentation methods.
 
+
+
+
+# Accepted Talks
+
+
 ## Accelerated Deep Learning with PyTorch
 
 
@@ -135,6 +141,34 @@ A fundamental concept in computer vision is the process of segmenting an object 
 
 Numpy and Jupyter notebooks are now a de-facto standard for data science. But what if we have a bigger problem to tackle? This tutorial introduces PyTorch, a Numpy-like library for deep learning that is being developed at Facebook. Along with a CPU-based NumPy back-end, PyTorch allows you to use GPU back-end without any knowledge of CUDA or other low level frameworks and languages. With PyTorch, advancing science from your web browser is fast and easy as never before! In our short tutorial we’re going to show you how to use PyTorch for regular data analytics tasks, how it’s different from Numpy, and how to train a neural network on a toy image classification dataset like MNIST or CIFAR-10. Finally, we show you how we used PyTorch to solve a real problem right at the intersection of Business and Science, namely, training a classifier to determine smooth or rough surface finish in metal parts manufactured on a CNC machine, all within the comfort of a Jupyter Notebook.
 
+## The Markovian Birdsong Notebook
+
+
+> [David Nicholson]() - _post-doctoral fellow_  @ **Emory University**
+
+
+Birdsong obeys a syntax, much like speech. To study this syntax, scientists label the elements of birdsong, known as syllables, producing strings of characters that can be modeled just like any other text. One common model applied to birdsong is a first-order Markov model: essentially a transition matrix containing the probabilities of transitioning from one character to any other in a sequence. Researchers have shown that such a model cannot capture the statistics of song for some bird species. These results demonstrate long time-scale dependencies in song that first-order Markov processes cannot reproduce, and imply that the songbird brain does more than simply flip a coin as it transitions between syllables. A recent study reported that using partially-observable Markov models with adaptation (POMMA) can reproduce the statistics of label sequences for one songbird species, the Bengalese finch. In this demo,  I show how I was able to reproduce in a single Jupyter notebook the results of this study. I apply the model to two publicly-shared repositories of labeled Bengalese finch song, including one from our lab. My results confirm that the model successfully describes the syntax of many individual Bengalese finches' songs but also reveals cases where alternative models may be a better fit. I present these results as a case study in reproducibility, to show how Jupyter can drive research forward by allowing editors, reviewers, and readers to interact with the results presented in any scientific study.
+
+## Using Clojure in Jupyter 
+
+
+> [Jeffrey Cummings](https://github.com/JeffAtAtl) - _Sr Developer and Data Engineer_  @ **Insight Global placed at AT&T **
+
+
+This will be a live demo of how I added Clojure as a kernel (using existing plugin, clojupyter) and use cases on what it can be used for
+
+## Achieving Reproducible and Deployable Data Science Workflows
+
+
+> [John Patanian](https://github.com/JPatanian) - _Principal Data Scientist_  @ **General Electric**
+
+
+Data science projects, especially those intended for production deployments, are often segmented into a ad-hoc discovery phase and production phase more akin to traditional software development.  
+
+Within a group of data scientists, for collaboration purposes there are many benefits to using a standardized project structure, such as ease of review and the ability to automate and standardize model deployment. 
+
+This presentation will demonstrate the use of Jupyter notebooks as part of a templatized, reproducible, and deployable workflow. Participants will learn to use the Cookiecutter templating framework, how to templatize notebooks and deployment artifacts through demonstration of amachine learning model development pipeline involving notebooks, GitHub and Docker.
+
 
 
 
@@ -142,7 +176,7 @@ Numpy and Jupyter notebooks are now a de-facto standard for data science. But wh
 
 ### Up and Running: The Jupyter Stack for n00bs
 
-Are you new to Jupyter?  Join this session to learn some pro tips that will improve your Jupyter experience.
+Are you new to Jupyter?  Join this session to learn some pro tips that will improve your Jupyter experience indefinitely.
 
 ### Interacting and Collaborating in Jupyter
 
@@ -154,6 +188,9 @@ architecture (e.g. messaging, kernels) and subprojects (e.g. Notebook, JupyterHu
 
 A favorite of Jupyter Day Atlanta 2016 the Jupyter for Science track will host a session demonstrating
 the broad topics that scientists and engineers explore with Jupyter notebooks.
+
+
+    Overwriting _includes/speakers.md
 
 
 
