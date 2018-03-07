@@ -101,7 +101,7 @@ This talk will show an overview of active learning, how it's being used in indus
 ## Give a Little Bit of Your Notebooks to Me
 
 
-> [Peter Parente]()  @ **Valassis Digital by day, Jupyter by night**
+> [Peter Parente](https://github.com/parente)  @ **Valassis Digital by day, Jupyter by night**
 
 
 You've written an awesome notebook. It tells a great story, looks beautiful, and runs flawlessly. How do you share your pride and joy? Come and learn about some Jupyter tools that help make your work accessible to the masses.
@@ -214,36 +214,4 @@ in Atlanta.  We are excited to partner with these meetups.
 [![](https://secure.meetupstatic.com/photos/event/2/7/2/8/global_452170024.jpeg)](https://www.meetup.com/PyData-Atlanta/)
 [![](https://i.vimeocdn.com/portrait/5895081_600x600.webp)](https://www.meetup.com/Data-Science-ATL/)
 ## [<img style="display:inline" src="https://pbs.twimg.com/profile_images/780503095499452418/7YYwrvXr_400x400.jpg"/> PyData Triangle](https://www.meetup.com/PyData-Triangle/ "PyData Triangle")
-
-
-
-<style>
-a:link {
-    color: #F37626;
-    font-weight: normal !important;
-}
-button {
-    color: white;
-    background-color: #F37626;
-}
-button.btn-sm {
-    font-size: 1em;
-    padding: .25em;
-    border-radius: .1em;
-    width: 50%;
-    border: 0;
-}
-
-button.btn-lg {
-    font-size: 2em;
-    padding: .5em;
-    border-radius: .1em;
-    width: 100%;
-    border: 0;
-}
-
-a:hover {
-    font-weight: normal !important;
-}
-</style>
 
