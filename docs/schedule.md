@@ -8,14 +8,12 @@
 ## Afternoon session
 
 * 1pm - 1:40pm - Post Lunch Talk
-* 1:40pm - 4pm
+* Breakout sessions
 
-    * Up and Running: The Jupyter Stack for n00bs
-        * 1:40pm - 2:25pm A 45 minute crash course on getting the most out of JupyterLab.
-
-    * 1:40pm - 4pm Interacting and Collaborating with Jupyter
-    * 1:40pm - 4pm Jupyter for Business and Science
+    * 1:40pm - 2:25pm A 45 minute crash course on getting the most out of JupyterLab
+    * 1:40pm - 4:00pm Interacting and Collaborating with Jupyter
+    * 1:40pm - 4:00pm Jupyter for Business and Science
 
 * 4-4:15pm  — More ☕️ provided by Project Jupyter
-* 4:15pm - 5pm - Featured Talk
-* 5pm - 5:30pm — Town Hall and Closing Remarks
+* 4:15pm - 5:00pm - Featured Talk
+* 5:00pm - 5:30pm — Town Hall and Closing Remarks

@@ -59,17 +59,15 @@ is open.  Until then please consider [submitting a talk](https://docs.google.com
 ## Afternoon session
 
 * 1pm - 1:40pm - Post Lunch Talk
-* 1:40pm - 4pm
+* Breakout sessions
 
-    * Up and Running: The Jupyter Stack for n00bs
-        * 1:40pm - 2:25pm A 45 minute crash course on getting the most out of JupyterLab.
-
-    * 1:40pm - 4pm Interacting and Collaborating with Jupyter
-    * 1:40pm - 4pm Jupyter for Business and Science
+    * 1:40pm - 2:25pm A 45 minute crash course on getting the most out of JupyterLab
+    * 1:40pm - 4:00pm Interacting and Collaborating with Jupyter
+    * 1:40pm - 4:00pm Jupyter for Business and Science
 
 * 4-4:15pm  — More ☕️ provided by Project Jupyter
-* 4:15pm - 5pm - Featured Talk
-* 5pm - 5:30pm — Town Hall and Closing Remarks
+* 4:15pm - 5:00pm - Featured Talk
+* 5:00pm - 5:30pm — Town Hall and Closing Remarks
 
 
 
@@ -144,7 +142,7 @@ Numpy and Jupyter notebooks are now a de-facto standard for data science. But wh
 ## The Markovian Birdsong Notebook
 
 
-> [David Nicholson]() - _post-doctoral fellow_  @ **Emory University**
+> [David Nicholson](https://github.com/NickleDave) - _post-doctoral fellow_  @ **Emory University**
 
 
 Birdsong obeys a syntax, much like speech. To study this syntax, scientists label the elements of birdsong, known as syllables, producing strings of characters that can be modeled just like any other text. One common model applied to birdsong is a first-order Markov model: essentially a transition matrix containing the probabilities of transitioning from one character to any other in a sequence. Researchers have shown that such a model cannot capture the statistics of song for some bird species. These results demonstrate long time-scale dependencies in song that first-order Markov processes cannot reproduce, and imply that the songbird brain does more than simply flip a coin as it transitions between syllables. A recent study reported that using partially-observable Markov models with adaptation (POMMA) can reproduce the statistics of label sequences for one songbird species, the Bengalese finch. In this demo,  I show how I was able to reproduce in a single Jupyter notebook the results of this study. I apply the model to two publicly-shared repositories of labeled Bengalese finch song, including one from our lab. My results confirm that the model successfully describes the syntax of many individual Bengalese finches' songs but also reveals cases where alternative models may be a better fit. I present these results as a case study in reproducibility, to show how Jupyter can drive research forward by allowing editors, reviewers, and readers to interact with the results presented in any scientific study.
@@ -152,7 +150,7 @@ Birdsong obeys a syntax, much like speech. To study this syntax, scientists labe
 ## Using Clojure in Jupyter 
 
 
-> [Jeffrey Cummings](https://github.com/JeffAtAtl) - _Sr Developer and Data Engineer_  @ **Insight Global placed at AT&T **
+> [Jeffrey Cummings](https://github.com/JeffAtAtl) - _Sr Developer and Data Engineer_  @ **AT&T/Insight Global**
 
 
 This will be a live demo of how I added Clojure as a kernel (using existing plugin, clojupyter) and use cases on what it can be used for
@@ -188,9 +186,6 @@ architecture (e.g. messaging, kernels) and subprojects (e.g. Notebook, JupyterHu
 
 A favorite of Jupyter Day Atlanta 2016 the Jupyter for Science track will host a session demonstrating
 the broad topics that scientists and engineers explore with Jupyter notebooks.
-
-
-    Overwriting _includes/speakers.md
 
 
 
