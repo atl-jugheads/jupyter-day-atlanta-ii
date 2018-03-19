@@ -190,3 +190,63 @@ architecture (e.g. messaging, kernels) and subprojects (e.g. Notebook, JupyterHu
 A favorite of Jupyter Day Atlanta 2016 the Jupyter for Science track will host a session demonstrating
 the broad topics that scientists and engineers explore with Jupyter notebooks.
 
+
+
+# [Code of Conduct][coc]
+
+All participants, including speakers, must follow our [__Atlanta Jupyter Day Code of Conduct__][coc], the core of which is
+this: __Atlanta Jupyter Day__ should be a safe and productive environment for everyone.
+
+[coc]: conduct/code_of_conduct.md
+
+
+
+# Sponsors
+
+[![](http://www.southeastlinuxfest.org/wp-content/uploads/2014/06/ORM_logo_box1_cmyk.jpg)](https://www.oreilly.com/)
+[![](https://raw.githubusercontent.com/jupyter/design/master/logos/Rectangle%20Logo/rectanglelogo-greytext-orangebody-greymoons/rectanglelogo-greytext-orangebody-greymoons.png)](https://jupyter.org)
+[![](https://upload.wikimedia.org/wikipedia/en/1/1e/GTRI_Logo_2011.png)](https://gtri.gatech.edu/)
+
+
+
+# Meetup Partners
+
+The Atlanta Jupyter Group is an extension of [PyData Atlanta](https://www.meetup.com/PyData-Atlanta/) and the greater technology community 
+in Atlanta.  We are excited to partner with these meetups.
+
+[![](https://secure.meetupstatic.com/photos/event/2/7/2/8/global_452170024.jpeg)](https://www.meetup.com/PyData-Atlanta/)
+[![](https://i.vimeocdn.com/portrait/5895081_600x600.webp)](https://www.meetup.com/Data-Science-ATL/)
+## [<img style="display:inline" src="https://pbs.twimg.com/profile_images/780503095499452418/7YYwrvXr_400x400.jpg"/> PyData Triangle](https://www.meetup.com/PyData-Triangle/ "PyData Triangle")
+
+
+
+<style>
+a:link {
+    color: #F37626;
+    font-weight: normal !important;
+}
+button {
+    color: white;
+    background-color: #F37626;
+}
+button.btn-sm {
+    font-size: 1em;
+    padding: .25em;
+    border-radius: .1em;
+    width: 50%;
+    border: 0;
+}
+
+button.btn-lg {
+    font-size: 2em;
+    padding: .5em;
+    border-radius: .1em;
+    width: 100%;
+    border: 0;
+}
+
+a:hover {
+    font-weight: normal !important;
+}
+</style>
+
