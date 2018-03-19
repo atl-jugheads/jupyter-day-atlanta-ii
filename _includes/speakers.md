@@ -10,3 +10,4 @@
 [David Nicholson](#the-markovian-birdsong-notebook)<br>
 [Jeffrey Cummings](#using-clojure-in-jupyter-)<br>
 [John Patanian](#achieving-reproducible-and-deployable-data-science-workflows)<br>
+[Nick Bollweg](#journey-upstream-an-oral-history-of-jupyter)<br>

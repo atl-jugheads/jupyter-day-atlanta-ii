@@ -10,7 +10,6 @@
 * 1pm - 1:40pm - Post Lunch Talk
 * Breakout sessions
 
-    * 1:40pm - 2:25pm A 45 minute crash course on getting the most out of JupyterLab
     * 1:40pm - 4:00pm Interacting and Collaborating with Jupyter
     * 1:40pm - 4:00pm Jupyter for Business and Science
 
