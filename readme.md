@@ -58,9 +58,7 @@ on March 31.
 
 
 
-{% for i, _ in speakers.iterrows() %}{% set name=mapping[_['Your name or a site (e.g. twitter, github) handle.']]%}{{name}} {% if _['Job Title'] %}- {{_['Job Title']}} {% endif %} @ {{_['Affiliation']}}: {{_['Title']}}
 
-{% endfor %}
 
 # Invited Talks
 
