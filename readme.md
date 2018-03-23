@@ -10,16 +10,6 @@ March 31, 2018 @ [Georgia Tech Research Institute](https://gtri.gatech.edu/) in 
 
 
 
-## Interested in speaking at Jupyter Day Atlanta?
-
-
-> We are accepting talks for 2 tracks until __March 16, 2018__.
-
-[<button class="btn btn-lg" type="button">Submit Your Talk</button>](https://docs.google.com/forms/d/e/1FAIpQLSeUJfyYnmsDtswuFanajOpAbAl_E4Ib6LsgM1fMk6Y42ZCf2w/viewform)
-
-
-
-
 ## About
 
 Jupyter Day Atlanta is a single-day conference for Jupyter users in the Southeast.  The [Atlanta
@@ -32,11 +22,9 @@ the state-of-the-art in open source scientific computing. This event is inspired
 [past and future events](docs/events.md) hosted by the Jupyter community, and hopes to connect
 people across the Southeast including Atlanta, Athens, Raleigh, Columbia, Charlotte, and more.
 
-[<button class="btn btn-lg" type="button">Get Early Bird Tickets</button>](https://jupyter-day-atlanta.eventbrite.com)
 
 Make plans to join us at the [GTRI Conference Center](https://gtri.gatech.edu/) in the heart of Atlanta
-on March 31. Early Bird Registration for Jupyter Day Atlanta
-is open.  Until then please consider [submitting a talk](https://docs.google.com/forms/d/e/1FAIpQLSeUJfyYnmsDtswuFanajOpAbAl_E4Ib6LsgM1fMk6Y42ZCf2w/viewform)!
+on March 31. 
 
 
 
@@ -70,7 +58,9 @@ is open.  Until then please consider [submitting a talk](https://docs.google.com
 
 
 
+{% for i, _ in speakers.iterrows() %}{% set name=mapping[_['Your name or a site (e.g. twitter, github) handle.']]%}{{name}} {% if _['Job Title'] %}- {{_['Job Title']}} {% endif %} @ {{_['Affiliation']}}: {{_['Title']}}
 
+{% endfor %}
 
 # Invited Talks
 
