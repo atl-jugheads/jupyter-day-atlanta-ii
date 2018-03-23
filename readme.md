@@ -28,13 +28,6 @@ on March 31.
 
 
 
-# Important Dates
-
-* [Call for Participation](https://docs.google.com/forms/d/e/1FAIpQLSeUJfyYnmsDtswuFanajOpAbAl_E4Ib6LsgM1fMk6Y42ZCf2w/viewform) Closes: __March 16, 2018__
-* Speakers notified: __March 19, 2018__
-
-
-
 
 
 ## Morning session
