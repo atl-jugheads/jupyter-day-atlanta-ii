@@ -177,11 +177,11 @@ This will be a live demo of how I added Clojure as a kernel (using existing plug
 > [John Patanian](https://github.com/JPatanian) - _Principal Data Scientist_  @ **General Electric**
 
 
-Data science projects, especially those intended for production deployments, are often segmented into a ad-hoc discovery phase and production phase more akin to traditional software development.  
+Data science projects, especially those intended for production deployments, are often segmented into an ad-hoc discovery phase and production phase more akin to traditional software development.  
 
 Within a group of data scientists, for collaboration purposes there are many benefits to using a standardized project structure, such as ease of review and the ability to automate and standardize model deployment. 
 
-This presentation will demonstrate the use of Jupyter notebooks as part of a templatized, reproducible, and deployable workflow. Participants will learn to use the Cookiecutter templating framework, how to templatize notebooks and deployment artifacts through demonstration of amachine learning model development pipeline involving notebooks, GitHub and Docker.
+This presentation will demonstrate the use of Jupyter notebooks as part of a templatized, reproducible, and deployable workflow. Participants will learn to use the Cookiecutter templating framework, how to templatize notebooks and deployment artifacts through demonstration of a machine learning model development pipeline involving notebooks, GitHub and Docker.
 
 ## Journey Upstream: An Oral History of Jupyter
 
