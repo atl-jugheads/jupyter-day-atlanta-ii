@@ -1,5 +1,86 @@
 
-![](https://user-images.githubusercontent.com/4236275/35634953-fb4a3eb6-067a-11e8-81f7-8f06fcf0b052.png)
+
+
+
+<style>
+.jp-RenderedHTMLCommon pre code {
+    text-decoration: line-through wavy;
+}
+.jp-RenderedHTMLCommon pre code:hover {
+    text-decoration: none;
+
+}
+.jp-Placeholder-content .jp-MoreHorizIcon {
+    background-size: 32px;
+}
+
+@import url("https://cdn.jsdelivr.net/npm/firacode@1.205.0/distr/fira_code.css")
+
+.CodeMirror * {
+  font-family: 'Fira Code' !important; 
+  font-variant-ligatures: initial !important;
+}
+
+.cm-string {
+    font-variant-ligatures: none;
+}
+</style><style>
+.jp-mod-presentationMode .jp-SideBar,
+.jp-mod-presentationMode #jp-top-panel {
+    opacity: 0.0;
+    transition: all 0.2s;
+}
+.jp-mod-presentationMode .jp-SideBar:hover,
+.jp-mod-presentationMode #jp-top-panel:hover {
+    opacity: 0.9;
+    transition: all 0.2s;
+}
+
+</style><style>
+.jp-mod-presentationMode.jp-ApplicationShell,
+.jp-mod-presentationMode .p-TabBar-content{
+    background-color: var(--jp-layout-color0);
+}
+</style><style>
+.jp-mod-presentationMode .p-DockPanel-widget,
+.jp-mod-presentationMode #jp-left-stack{
+    border-color: transparent;
+}
+.jp-mod-presentationMode .jp-Toolbar-item,
+.jp-mod-presentationMode .jp-Toolbar {
+    opacity: 0.1;
+    transition: all 0.2s;
+}
+.jp-mod-presentationMode .jp-Toolbar-item:hover,
+.jp-mod-presentationMode .jp-Toolbar:hover {
+    opacity: 0.9;
+    transition: all 0.2s;
+}
+
+</style><style>
+.jp-mod-presentationMode .jp-OutputPrompt,
+.jp-mod-presentationMode .jp-InputPrompt {
+    max-width: 2rem !important;
+    transition: all 0.2s;
+}
+.jp-mod-presentationMode .jp-Cell.jp-mod-selected .jp-OutputPrompt,
+.jp-mod-presentationMode .jp-Cell.jp-mod-selected .jp-InputPrompt,
+.jp-mod-presentationMode .jp-Cell:hover .jp-OutputPrompt,
+.jp-mod-presentationMode .jp-Cell:hover .jp-InputPrompt {
+    max-width: 10rem !important;
+    transition: all 0.2s;
+}
+
+.jp-mod-presentationMode .jp-Cell {
+    margin-bottom: 5rem;
+}
+
+.jp-mod-presentationMode hr {
+    opacity: 0.1;
+}
+</style>
+
+
 
 
 # Jupyter Day Atlanta II 
@@ -8,6 +89,8 @@ March 31, 2018 @ [Georgia Tech Research Institute](https://gtri.gatech.edu/) in 
 
 ---
 
+
+![](https://user-images.githubusercontent.com/4236275/35634953-fb4a3eb6-067a-11e8-81f7-8f06fcf0b052.png)
 
 
 ## About
@@ -28,27 +111,64 @@ on March 31.
 
 
 
+# March 31, 2018 Event Schedule
+
+## Morning
+
+##### <small>8:45 AM to 9:15 AM</small> Registration and ☕️
+* Atlanta Jupyter User Group and Project Jupyter
+
+##### <small>9:15 AM to 10:00 AM</small> Panel on Readability, Reusability, and Reproducibility
+* Carol Willing, Paco Nathan, Rob Clewley, Daniel Wheeler moderated by Charlie Bennett
+
+##### <small>10:00 AM to 10:40 AM</small> Jupyter Upstream: An Oral History of Jupyter
+* Nick Bollweg
+
+##### <small>10:40 AM to 11:20 AM</small> Reproducible Segmentation of Not-Quite-Objects
+* Shannon Quinn
+
+##### <small>11:20 AM to 12:00 PM</small> STEAM Workshops with Binder and JupyterHub
+* Carol Willing
+
+##### <small>12:00 PM to 1:00 PM</small> Moe's
+* O'Reilly Media
 
 
-## Morning session
 
-* 9:00am - 9:15am — Registration with ☕️ & 🍩 from Project Jupyter
-* 9:15am - 10am — Panel on Readability, Reusability, and Reproducibility
-* 10am - 12pm — Invited Talks
-* 12pm - 1pm — Lunch provided by O'Reilly Media
+## Afternoon
 
-## Afternoon session
+##### <small>1:00 PM to 1:40 PM</small> Just how hard is it to drive a car with a camera
+* Stephen Welch
 
-* 1pm - 1:40pm - Post Lunch Talk
-* Breakout sessions
+##### <small>1:40 PM to 2:05 PM</small> Achieving Reproducible and Deployable Data Science Workflows
+* John Patanian
 
-    * 1:40pm - 4:00pm Interacting and Collaborating with Jupyter
-    * 1:40pm - 4:00pm Jupyter for Business and Science
+##### <small>1:40 PM to 2:25 PM</small> Getting the most out of JupyterLab
+* Tony Fast
 
-* 4-4:15pm  — More ☕️ provided by Project Jupyter
-* 4:15pm - 5:00pm - Featured Talk
-* 5:00pm - 5:30pm — Town Hall and Closing Remarks
+##### <small>2:05 PM to 2:30 PM</small> Using Clojure in Jupyter
+* Jeffrey Cummings
 
+##### <small>2:30 PM to 2:55 PM</small> Accelerated Deep Learning with PyTorch
+* Wafa Louhichi
+
+##### <small>2:55 PM to 3:20 PM</small> The Markovian Birdsong Notebook
+* David Nicholson
+
+##### <small>3:20 PM to 3:45 PM</small> Classification and Characterization of Metal Powder in Additive Manufacturing using Deep Neural Nets
+* Anna C. Smith
+
+##### <small>3:45 PM to 4:00 PM</small> More ☕️ provided
+* Project Jupyter
+
+##### <small>4:00 PM to 4:40 PM</small> Give a Little Bit of Your Notebooks to Me
+* Peter Parente
+
+##### <small>4:40 PM to 5:20 PM</small> Human-in-the-loop with Jupyter notebooks
+* Paco Nathan
+
+##### <small>5:20 PM to 5:30 PM</small> Town Hall and Closing Remarks
+* Atlanta Jupyter User Group and O'Reilly Media
 
 
 
@@ -107,7 +227,6 @@ A fundamental concept in computer vision is the process of segmenting an object 
 
 
 
-
 # Accepted Talks
 
 
@@ -154,22 +273,6 @@ This presentation will demonstrate the use of Jupyter notebooks as part of a tem
 
 
 Two centuries ago, Lewis and Clark set out from St. Louis with $2,500 and 33 volunteers to map an uncharted continent. Along the way, they received aid, trade, and shelter from the folk who called this wilderness home. The Corps of Discovery returned with notebooks full of geographic, scientific, and cultural data. The journey to Jupyter started with 259 lines of Python in 2001... and is hardly over yet! In this talk, we'll map the code and community that supports IPython, the Notebook, and the upcoming JupyterLab, and look at some of the discoveries along the way.
-
-
-
-
-## Breakout Sessions
-
-### Interacting and Collaborating in Jupyter
-
-In this session, the audience will learn about the core Jupyter
-architecture (e.g. messaging, kernels) and subprojects (e.g. Notebook, JupyterHub, JupyterLab, ipywidgets, nbconvert).  
-
-
-### Jupyter for Science
-
-A favorite of Jupyter Day Atlanta 2016 the Jupyter for Science track will host a session demonstrating
-the broad topics that scientists and engineers explore with Jupyter notebooks.
 
 
 
