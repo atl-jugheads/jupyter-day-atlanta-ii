@@ -69,7 +69,7 @@ on March 31.
 ##### <small>2:30 PM to 2:55 PM</small> Accelerated Deep Learning with PyTorch
 * Wafa Louhichi
 
-##### <small>2:55 PM to 3:20 PM</small> The Markovian Birdsong Notebook
+##### <small>2:55 PM to 3:20 PM</small> A Compact Statistical Model of Birdsong Syntax: Replication Study with Jupyter
 * David Nicholson
 
 ##### <small>3:20 PM to 3:45 PM</small> Classification and Characterization of Metal Powder in Additive Manufacturing using Deep Neural Nets
@@ -155,13 +155,12 @@ A fundamental concept in computer vision is the process of segmenting an object 
 
 Numpy and Jupyter notebooks are now a de-facto standard for data science. But what if we have a bigger problem to tackle? This tutorial introduces PyTorch, a Numpy-like library for deep learning that is being developed at Facebook. Along with a CPU-based NumPy back-end, PyTorch allows you to use GPU back-end without any knowledge of CUDA or other low level frameworks and languages. With PyTorch, advancing science from your web browser is fast and easy as never before! In our short tutorial we’re going to show you how to use PyTorch for regular data analytics tasks, how it’s different from Numpy, and how to train a neural network on a toy image classification dataset like MNIST or CIFAR-10. Finally, we show you how we used PyTorch to solve a real problem right at the intersection of Business and Science, namely, training a classifier to determine smooth or rough surface finish in metal parts manufactured on a CNC machine, all within the comfort of a Jupyter Notebook.
 
-## The Markovian Birdsong Notebook
-
+## A Compact Statistical Model of Birdsong Syntax: Replication Study with Jupyter
 
 > [David Nicholson](https://github.com/NickleDave) - _post-doctoral fellow_  @ **Emory University**
 
 
-Birdsong obeys a syntax, much like speech. To study this syntax, scientists label the elements of birdsong, known as syllables, producing strings of characters that can be modeled just like any other text. One common model applied to birdsong is a first-order Markov model: essentially a transition matrix containing the probabilities of transitioning from one character to any other in a sequence. Researchers have shown that such a model cannot capture the statistics of song for some bird species. These results demonstrate long time-scale dependencies in song that first-order Markov processes cannot reproduce, and imply that the songbird brain does more than simply flip a coin as it transitions between syllables. A recent study reported that using partially-observable Markov models with adaptation (POMMA) can reproduce the statistics of label sequences for one songbird species, the Bengalese finch. In this demo,  I show how I was able to reproduce in a single Jupyter notebook the results of this study. I apply the model to two publicly-shared repositories of labeled Bengalese finch song, including one from our lab. My results confirm that the model successfully describes the syntax of many individual Bengalese finches' songs but also reveals cases where alternative models may be a better fit. I present these results as a case study in reproducibility, to show how Jupyter can drive research forward by allowing editors, reviewers, and readers to interact with the results presented in any scientific study.
+Birdsong obeys a syntax, much like speech. To study this syntax, scientists label the elements of birdsong, known as syllables, producing strings of characters that can be modeled just like any other text. One common model applied to birdsong is a first-order Markov model: essentially a matrix containing the probabilities of transitioning from one character to any other in a sequence. Researchers have shown long time-scale dependencies in syntax of some bird species' songs, dependencies that first-order Markov processes cannot produce. A recent study reported that using partially-observable Markov models with adaptation (POMMA) as a generative model can produce sequences with statistics matching those of labeled song for one species, the Bengalese finch. In this demo, I use Jupyter to show how I was able to collaborate with the researchers, implement their model in Python, and reproduce the results of the study. I apply the model to two publicly-shared repositories of labeled Bengalese finch song, including one from our lab. My results confirm that the model successfully describes the syntax of many individual Bengalese finches' songs. I present these results as a case study in reproducibility, to show how Jupyter can drive research forward by allowing editors, reviewers, and readers to interact with the results presented in any scientific study.
 
 ## Using Clojure in Jupyter 
 
