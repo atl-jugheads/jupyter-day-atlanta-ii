@@ -69,7 +69,7 @@ on March 31.
 ##### <small>2:30 PM to 2:55 PM</small> Accelerated Deep Learning with PyTorch
 * Wafa Louhichi
 
-##### <small>2:55 PM to 3:20 PM</small> A Compact Statistical Model of Birdsong Syntax: Replication Study with Jupyter
+##### <small>2:55 PM to 3:20 PM</small> The Markovian Birdsong Notebook
 * David Nicholson
 
 ##### <small>3:20 PM to 3:45 PM</small> Classification and Characterization of Metal Powder in Additive Manufacturing using Deep Neural Nets
@@ -156,6 +156,7 @@ A fundamental concept in computer vision is the process of segmenting an object 
 Numpy and Jupyter notebooks are now a de-facto standard for data science. But what if we have a bigger problem to tackle? This tutorial introduces PyTorch, a Numpy-like library for deep learning that is being developed at Facebook. Along with a CPU-based NumPy back-end, PyTorch allows you to use GPU back-end without any knowledge of CUDA or other low level frameworks and languages. With PyTorch, advancing science from your web browser is fast and easy as never before! In our short tutorial we’re going to show you how to use PyTorch for regular data analytics tasks, how it’s different from Numpy, and how to train a neural network on a toy image classification dataset like MNIST or CIFAR-10. Finally, we show you how we used PyTorch to solve a real problem right at the intersection of Business and Science, namely, training a classifier to determine smooth or rough surface finish in metal parts manufactured on a CNC machine, all within the comfort of a Jupyter Notebook.
 
 ## A Compact Statistical Model of Birdsong Syntax: Replication Study with Jupyter
+
 
 > [David Nicholson](https://github.com/NickleDave) - _post-doctoral fellow_  @ **Emory University**
 
