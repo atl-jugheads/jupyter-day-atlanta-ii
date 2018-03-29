@@ -2,9 +2,9 @@
 
 # "Readability, Reusability, and Reproducibility" Panel
 
-Moderated by [Charlie Bennett](http://charliebennett.org/)
+## Introductions
 
-## Panelists
+Moderated by [Charlie Bennett](http://charliebennett.org/)
 
 * [Carol Willing](http://github.com/willingc) @ Project Jupyter
 * [Paco Nathan](http://twitter.com/pacoid) @ O'Reilly Media
