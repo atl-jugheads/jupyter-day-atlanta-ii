@@ -12,6 +12,7 @@ __https://gitter.im/jupyter-day-atlanta-ii__
 ## Conference Schedule
 
 View the conference schedule and abstracts at the conference website.
+
 __https://atl-jugheads.github.io/jupyter-day-atlanta-ii__
 
 ## Social Media
