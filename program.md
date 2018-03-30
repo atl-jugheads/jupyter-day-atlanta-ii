@@ -9,8 +9,9 @@ Use the Jupyter Day Atlanta gitter chat to share links and ask questions to the 
 __https://gitter.im/jupyter-day-atlanta-ii__
 
 
-## View the conference schedule and abstracts at the conference website.
+## Conference Schedule
 
+View the conference schedule and abstracts at the conference website.
 __https://atl-jugheads.github.io/jupyter-day-atlanta-ii__
 
 ## Social Media
