@@ -25,7 +25,7 @@ Use the Jupyter Day Atlanta gitter chat to share links and ask questions to the 
 
 
 
-## meetup.com/Atlanta-Jupyter-User-Group/
+# meetup.com/Atlanta-Jupyter-User-Group/
 
 This event is hosted by the [Atlanta Jupyter User Group](https://meetup.com/Atlanta-Jupyter-User-Group/).  
 
